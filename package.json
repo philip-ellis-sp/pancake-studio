@@ -4,7 +4,7 @@
   "description": "A server that receives json payloads, flattens the keys and sends this new payload to passed in url",
   "main": "server.js",
   "scripts": {
-    "build": "echo \"Error: nothing to build\" && exit 0",
+    "build": "echo \"copy files: nothing to build\" && cp -a public/. build/ && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "npx nodemon --watch server.js --watch public --exec npm run start"

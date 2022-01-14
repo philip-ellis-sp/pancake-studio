@@ -6,7 +6,7 @@
     "framework": "none",
     "config": {
       "SourceDir": "public",
-      "DistributionDir": "public",
+      "DistributionDir": "build",
       "BuildCommand": "npm run-script build",
       "StartCommand": "npm run-script start"
     }
