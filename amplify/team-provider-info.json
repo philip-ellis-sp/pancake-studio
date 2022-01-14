@@ -10,6 +10,14 @@
       "StackName": "amplify-pancakestudio-dev-143516",
       "StackId": "arn:aws:cloudformation:us-east-2:348393362790:stack/amplify-pancakestudio-dev-143516/7e5b5490-7579-11ec-874c-0234feb05ba4",
       "AmplifyAppId": "d3re4zn33if2q8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3re4zn33if2q8",
+          "type": "manual"
+        }
+      }
     }
   }
 }

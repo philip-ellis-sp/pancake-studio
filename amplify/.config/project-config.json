@@ -5,9 +5,9 @@
   "javascript": {
     "framework": "none",
     "config": {
-      "SourceDir": "",
-      "DistributionDir": "",
-      "BuildCommand": "",
+      "SourceDir": "public",
+      "DistributionDir": "public",
+      "BuildCommand": "npm run-script build",
       "StartCommand": "npm run-script start"
     }
   },
